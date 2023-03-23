@@ -1,7 +1,7 @@
 ### terraform_for_aws_nginx
 
-##Create terraform scenario for provisioning infrastructure on GCP (or AWS) cloud
-#Requirement
+## Create terraform scenario for provisioning infrastructure on GCP (or AWS) cloud
+# Requirement
 Create one instance (image: ubuntu 20.04)
 Allow HTTP/HTTPS traffic on a NIC
 Provision one SSH public key for created instance
